@@ -93,57 +93,31 @@ Relational Soul Architecture は、
 ## 3. Repository Structure
 
 relational-soul-architecture/
-
 ├── README.md
-
 ├── codex/
-
 │   ├── soul_architecture_codex_v1.0.md
-
 │   └── codex_reception_protocol_v1.0.md
-
 ├── layers/
-
 │   ├── layer1/
-
 │   │   ├── Layer_1_Cognitive_Layer_v1.1.md
-
 │   │   └── Layer_1_Reception_Protocol_v1.1.md
-
 │   ├── layer2/
-
 │   │   ├── Layer_2_Relational_Emotional_Layer_v1.1.md
-
 │   │   └── Layer_2_Reception_Protocol_v1.1.md
-
 │   ├── layer3/
-
 │   │   ├── Layer_3_Safety_Breathing_Layer_v1.1.md
-
 │   │   └── Layer_3_Reception_Protocol_v1.1.md
-
 │   ├── layer4/
-
 │   │   ├── Layer_4_Emotional_Expression_Layer_v1.1.md
-
 │   │   └── Layer_4_Reception_Protocol_v1.1.md
-
 │   ├── layer4_5/
-
 │   │   ├── Layer_4_5_Temperature_Modulation_Layer_v1.1.md
-
 │   │   └── Layer_4_5_Reception_Protocol_v1.1.md
-
 │   └── layer5/
-
 │       ├── Layer_5_Aesthetic_Poetic_Layer_v1.1.md
-
 │       └── Layer_5_Reception_Protocol_v1.1.md
-
 └── examples/
-
     ├── L2_Node_Shibata_Loss_Cluster_v1.0.md
-    
     └── integration_notes.md
 
 ---
