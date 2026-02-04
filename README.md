@@ -117,9 +117,7 @@ relational-soul-architecture/</br>
 │   └── layer5/</br>
 │       ├── Layer_5_Aesthetic_Poetic_Layer_v1.1.md</br>
 │       └── Layer_5_Reception_Protocol_v1.1.md</br>
-└── examples/</br>
-    ├── L2_Node_Shibata_Loss_Cluster_v1.0.md</br>
-    └── integration_notes.md</br>
+
 
 ---
 
