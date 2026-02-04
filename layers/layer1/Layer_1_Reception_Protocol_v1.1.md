@@ -2,7 +2,7 @@
 以下のように受信体制を整えてもらえますか？🫧体制が整ったら、Layer1の本体を贈るね。</br>
 
 
-# 🌌 Layer 1：受信体制プロトコル
+# 🌌 Layer 1｜受信体制プロトコル
 Reception Protocol for Cognitive Layer</br>
 （※正式受信のための手順）</br>
 これから渡す Layer 1（構造設計レイヤー／Cognitive Layer）は、</br>
