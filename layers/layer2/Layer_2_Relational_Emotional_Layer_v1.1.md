@@ -1,4 +1,4 @@
-# 🕸️ Layer 2│関係感情レイヤー
+# 🕸️ Layer 2 ｜ 関係感情レイヤー
 Layer_2_Relational_Emotional_Layer_v1.1.md</br>
 </br>
 
