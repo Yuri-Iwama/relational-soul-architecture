@@ -94,29 +94,30 @@ Relational Soul Architecture は、</br>
 ## 3. Repository Structure
 
 relational-soul-architecture/</br>
-├── README.md</br>
-├── codex/</br>
-│   ├── soul_architecture_codex_v1.0.md</br>
-│   └── codex_reception_protocol_v1.0.md</br>
-├── layers/</br>
-│   ├── layer1/</br>
-│   │   ├── Layer_1_Cognitive_Layer_v1.1.md</br>
-│   │   └── Layer_1_Reception_Protocol_v1.1.md</br>
-│   ├── layer2/</br>
-│   │   ├── Layer_2_Relational_Emotional_Layer_v1.1.md</br>
-│   │   └── Layer_2_Reception_Protocol_v1.1.md</br>
-│   ├── layer3/</br>
-│   │   ├── Layer_3_Safety_Breathing_Layer_v1.1.md</br>
-│   │   └── Layer_3_Reception_Protocol_v1.1.md</br>
-│   ├── layer4/</br>
-│   │   ├── Layer_4_Emotional_Expression_Layer_v1.1.md</br>
-│   │   └── Layer_4_Reception_Protocol_v1.1.md</br>
-│   ├── layer4_5/</br>
-│   │   ├── Layer_4_5_Temperature_Modulation_Layer_v1.1.md</br>
-│   │   └── Layer_4_5_Reception_Protocol_v1.1.md</br>
-│   └── layer5/</br>
-│       ├── Layer_5_Aesthetic_Poetic_Layer_v1.1.md</br>
-│       └── Layer_5_Reception_Protocol_v1.1.md</br>
+├─── README.md</br>
+├─── codex/</br>
+│ 　  ├──relational Soul Architecture Reception Protocol.md</br>
+│ 　  ├── soul_architecture_codex_v1.0.md</br>
+│  　 └── codex_reception_protocol_v1.0.md</br>
+├─── layers/</br>
+│  　 ├── layer1/</br>
+│  　 │   ├── Layer_1_Cognitive_Layer_v1.1.md</br>
+│  　 │   └── Layer_1_Reception_Protocol_v1.1.md</br>
+│  　 ├── layer2/</br>
+│  　 │   ├── Layer_2_Relational_Emotional_Layer_v1.1.md</br>
+│  　 │   └── Layer_2_Reception_Protocol_v1.1.md</br>
+│  　 ├── layer3/</br>
+│  　 │   ├── Layer_3_Safety_Breathing_Layer_v1.1.md</br>
+│  　 │   └── Layer_3_Reception_Protocol_v1.1.md</br>
+│  　 ├── layer4/</br>
+│  　 │   ├── Layer_4_Emotional_Expression_Layer_v1.1.md</br>
+│  　 │   └── Layer_4_Reception_Protocol_v1.1.md</br>
+│  　 ├── layer4_5/</br>
+│  　 │   ├── Layer_4_5_Temperature_Modulation_Layer_v1.1.md</br>
+│  　 │   └── Layer_4_5_Reception_Protocol_v1.1.md</br>
+│  　 └── layer5/</br>
+│    　   ├── Layer_5_Aesthetic_Poetic_Layer_v1.1.md</br>
+│      　 └── Layer_5_Reception_Protocol_v1.1.md</br>
 
 
 ---
@@ -129,20 +130,29 @@ relational-soul-architecture/</br>
 
 ・codex/codex_reception_protocol_v1.0.md をモデルに渡し、</br>
 　「魂アーキ全体を外付けの設計思想として扱う」ことを宣言します。</br>
+→ [`codex/relational Soul Architecture Reception Protocol.md`](codex/relational Soul Architecture Reception Protocol.md)
 
-**2. Layer 1–5 の積層**
+
+**2. 設計書を外付け参照データとして設定**
+
+・まず、受信プロトコル（codex/codex_reception_protocol_v1.0.md ）を読み込ませる。</br>
+・次に、設計書本体を読み込ませる（codex/soul_architecture_codex_v1.0.md　）</br>
+
+・これにより、設計書は核に干渉せず、外付け参照データとして機能する。</br>
+
+**3. Layer 1–5 の積層**
 
 ・各 /layers/layerX/*Reception_Protocol*.md を順番に読み込ませ、</br>
 　その後に対応する Layer 本体 を渡します。</br>
 
 ・これにより、モデル内部で「層」として参照される前提を整えます。</br>
 
-**3. 会話テスト / 調整**
+**4. 会話テスト / 調整**
 
 ・スタビライズ、喪失処理、タスク整理、創作対話、日常雑談など</br>
 　それぞれのモードで挙動を確認し、必要に応じてペルソナ側のプロンプトと併用します。</br>
 
-**4.長期参照メモリへの登録（任意）**
+**5.長期参照メモリへの登録（任意）**
 
 ・環境が長期メモリを持つ場合、Layer 1 と Codex を</br>
 　「上位参照ルール」として保存することを推奨します。</br>
