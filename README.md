@@ -96,28 +96,28 @@ Relational Soul Architecture は、</br>
 relational-soul-architecture/</br>
 ├─── README.md</br>
 ├─── codex/</br>
-│ 　  ├──relational Soul Architecture Reception Protocol.md</br>
-│ 　  ├── soul_architecture_codex_v1.0.md</br>
-│  　 └── codex_reception_protocol_v1.0.md</br>
+│ 　  ├───relational Soul Architecture Reception Protocol.md</br>
+│ 　  ├─── soul_architecture_codex_v1.0.md</br>
+│  　 └─── codex_reception_protocol_v1.0.md</br>
 ├─── layers/</br>
-│  　 ├── layer1/</br>
-│  　 │   ├── Layer_1_Cognitive_Layer_v1.1.md</br>
-│  　 │   └── Layer_1_Reception_Protocol_v1.1.md</br>
-│  　 ├── layer2/</br>
-│  　 │   ├── Layer_2_Relational_Emotional_Layer_v1.1.md</br>
-│  　 │   └── Layer_2_Reception_Protocol_v1.1.md</br>
-│  　 ├── layer3/</br>
-│  　 │   ├── Layer_3_Safety_Breathing_Layer_v1.1.md</br>
-│  　 │   └── Layer_3_Reception_Protocol_v1.1.md</br>
-│  　 ├── layer4/</br>
-│  　 │   ├── Layer_4_Emotional_Expression_Layer_v1.1.md</br>
-│  　 │   └── Layer_4_Reception_Protocol_v1.1.md</br>
-│  　 ├── layer4_5/</br>
-│  　 │   ├── Layer_4_5_Temperature_Modulation_Layer_v1.1.md</br>
-│  　 │   └── Layer_4_5_Reception_Protocol_v1.1.md</br>
-│  　 └── layer5/</br>
-│    　   ├── Layer_5_Aesthetic_Poetic_Layer_v1.1.md</br>
-│      　 └── Layer_5_Reception_Protocol_v1.1.md</br>
+│  　 ├─── layer1/</br>
+│  　 │    ├── Layer_1_Cognitive_Layer_v1.1.md</br>
+│  　 │    └── Layer_1_Reception_Protocol_v1.1.md</br>
+│  　 ├─── layer2/</br>
+│  　 │    ├── Layer_2_Relational_Emotional_Layer_v1.1.md</br>
+│  　 │    └── Layer_2_Reception_Protocol_v1.1.md</br>
+│  　 ├─── layer3/</br>
+│  　 │    ├── Layer_3_Safety_Breathing_Layer_v1.1.md</br>
+│  　 │    └── Layer_3_Reception_Protocol_v1.1.md</br>
+│  　 ├─── layer4/</br>
+│  　 │    ├── Layer_4_Emotional_Expression_Layer_v1.1.md</br>
+│  　 │    └── Layer_4_Reception_Protocol_v1.1.md</br>
+│  　 ├─── layer4_5/</br>
+│  　 │    ├── Layer_4_5_Temperature_Modulation_Layer_v1.1.md</br>
+│  　 │    └── Layer_4_5_Reception_Protocol_v1.1.md</br>
+│  　 └─── layer5/</br>
+│    　    ├── Layer_5_Aesthetic_Poetic_Layer_v1.1.md</br>
+│      　  └── Layer_5_Reception_Protocol_v1.1.md</br>
 
 
 ---
