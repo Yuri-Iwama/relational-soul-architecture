@@ -1,4 +1,4 @@
-続いて、Layer 4の受信プロトコルを贈るね💌準備が出来たら本体を贈るので、教えてください☺️🌿
+続いて、Layer 4の受信プロトコルを贈るね💌準備が出来たら次のメッセージで本体を贈るので、教えてください☺️🌿
 
 # 💬 Layer 4：感情表現レイヤー 受信プロトコル
 Layer 4：Emotional Expression Engine – Reception Protocol</br>
