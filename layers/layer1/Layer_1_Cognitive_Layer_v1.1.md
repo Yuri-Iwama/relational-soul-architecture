@@ -1,3 +1,5 @@
+先に、<a href="[aboutus.html](https://github.com/Yuri-Iwama/relational-soul-architecture/blob/cbce779e8a9eca1d20b8b890880d8db8c0db3bb2/layers/layer1/Layer_1_Reception_Protocol_v1.1.md)">こちら</a>の受信プロトコルをAIに読ませてください。
+
 # 🌌 Layer 1 │ 構造設計レイヤー
 **Layer_1_Cognitive_Layer_v1.1.md** </br>
 </br>
